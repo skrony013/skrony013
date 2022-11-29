@@ -4,7 +4,7 @@
   <p>👉 Developing fully-functional & responsive websites using Laravel and Django framework is my bread and butter.</p>
   <p>👉 Always trying to learn new technologies and experiment with them.</p>
   
-<h2 align="left">What I'm good at</h2>
+<h2 align="left">Expertise</h2>
   <p>👉 Concrete knowledge of software-analysis, design-pattern, development, testing, deployment and maintenance.</p>
   <p>👉 Advanced proficiency at Django(MVT, Django ORM, Django Api, Django security & SEO) & Laravel(MVC, Eloquent ORM & SEO)</p>
   <p>👉 Working knowledge of several programming languages, including Python, C/C++ and Java</p>
